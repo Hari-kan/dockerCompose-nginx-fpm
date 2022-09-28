@@ -6,10 +6,10 @@ Hosting a website in nginx-phpfpm container
 .
 ├── docker-compose.yml
 ├── nginx.conf
-└── website
-    └── index.php
+└── index.php
+    
 
-1 directory, 3 files
+ 3 files
 ```
 
 
